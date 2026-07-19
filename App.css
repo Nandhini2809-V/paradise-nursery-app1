@@ -1,0 +1,15 @@
+.about-us-container {
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.about-us-container h1 {
+  color: #2e7d32;
+  margin-bottom: 15px;
+}
+
+.about-us-container p {
+  color: #555;
+  line-height: 1.6;
+}
